@@ -1,11 +1,32 @@
 <mxfile host="65bd71144e">
     <diagram id="HIP3nbAZw_EuaXWnEj3U" name="Page-1">
-        <mxGraphModel dx="399" dy="236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="438" dy="350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="7" value="http://ics2o.mths.ca" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="40" y="40" width="760" height="480" as="geometry"/>
+                <mxCell id="7" value="http://ics2o.mths.ca" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="45" y="30" width="760" height="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Area of a Trapezoid, in JS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="7">
+                    <mxGeometry x="270" y="30" width="220" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Equation&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7">
+                    <mxGeometry x="10" y="60" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;font&gt;&lt;div class=&quot;lr-fy-ecl lr-fy-eq-elem&quot; data-var=&quot;A&quot; style=&quot;display: inline-block; position: relative; transition: color 0.05s ease-in-out; font-style: italic; color: rgb(31, 31, 31); font-family: XITSMath-Regular, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255); margin-right: 10px; margin-top: 0px; margin-bottom: 0px;&quot;&gt;A&lt;/div&gt;&lt;div class=&quot;lr-fy-eq-elem lr-fy-eq-add&quot; style=&quot;display: inline-block; position: relative; transition: color 0.05s ease-in-out; color: rgb(31, 31, 31); font-family: XITSMath-Regular, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255); margin-left: 0.2em; margin-right: 0.2em;&quot;&gt;=&lt;/div&gt;&lt;div class=&quot;lr-fy-eq-elem eiuJYe&quot; data-lr-op=&quot;imul&quot; style=&quot;display: inline-block; position: relative; transition: color 0.05s ease-in-out; color: rgb(31, 31, 31); font-family: XITSMath-Regular, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255); margin-left: 5px; vertical-align: middle; margin-top: 0px; margin-bottom: 0px;&quot;&gt;&lt;div data-lr-op=&quot;div&quot; class=&quot;lr-fy-eq-elem&quot; style=&quot;display: inline-block; position: relative; transition: color 0.05s ease-in-out; text-align: center; vertical-align: middle;&quot;&gt;&lt;div data-lr-op=&quot;ipar&quot; class=&quot;lr-fy-eq-elem&quot; style=&quot;display: inline-block; position: relative; transition: color 0.05s ease-in-out;&quot;&gt;&lt;div data-lr-op=&quot;plus&quot; class=&quot;lr-fy-eq-elem&quot; style=&quot;display: inline-block; position: relative; transition: color 0.05s ease-in-out;&quot;&gt;&lt;div class=&quot;lr-fy-el lr-fy-eq-elem&quot; data-var=&quot;a&quot; role=&quot;link&quot; style=&quot;display: inline-block; position: relative; transition: color 0.05s ease-in-out; margin: -4px; padding: 4px; font-style: italic; cursor: pointer;&quot;&gt;a&lt;/div&gt;&lt;div class=&quot;lr-fy-eq-elem lr-fy-eq-add&quot; style=&quot;display: inline-block; position: relative; transition: color 0.05s ease-in-out; margin-left: 0.1em; margin-right: 0.1em;&quot;&gt;+&lt;/div&gt;&lt;div class=&quot;lr-fy-el lr-fy-eq-elem&quot; data-var=&quot;b&quot; role=&quot;link&quot; style=&quot;display: inline-block; position: relative; transition: color 0.05s ease-in-out; margin: -4px; padding: 4px; font-style: italic; cursor: pointer;&quot;&gt;b&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;lr-fy-eq-add&quot; style=&quot;width: 49.3924px; height: 1px; background-color: black; margin-top: 2px; margin-bottom: 2px;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;lr-fy-ecv lr-fy-eq-elem&quot; style=&quot;display: inline-block; position: relative; transition: color 0.05s ease-in-out;&quot;&gt;2&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;lr-fy-eq-elem lr-fy-eq-add&quot; style=&quot;display: inline-block; position: relative; transition: color 0.05s ease-in-out; margin-left: 0.2em;&quot;&gt;&lt;/div&gt;&lt;div class=&quot;lr-fy-el lr-fy-eq-elem&quot; data-var=&quot;h&quot; role=&quot;link&quot; style=&quot;display: inline-block; position: relative; transition: color 0.05s ease-in-out; margin: -4px; padding: 4px; font-style: italic; cursor: pointer;&quot;&gt;h&lt;/div&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="7">
+                    <mxGeometry x="15" y="100" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Please enter the following&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7">
+                    <mxGeometry y="140" width="210" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Length of A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7">
+                    <mxGeometry x="25" y="170" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Length of H&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7">
+                    <mxGeometry x="20" y="250" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Length of B&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7">
+                    <mxGeometry x="25" y="210" width="80" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
